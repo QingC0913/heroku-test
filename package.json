@@ -1,0 +1,11 @@
+{
+  "name": "hello2",
+  "version": "1.0.0",
+  "description": "demo app that runs online",
+  "main": "hello there",
+  "scripts": {
+    "test": "load hello2.js"
+  },
+  "author": "Qing",
+  "license": "ISC"
+}
