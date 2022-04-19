@@ -6,6 +6,10 @@
   "scripts": {
     "test": "load hello2.js"
   },
+   "repository": {
+  "type": "git",
+  "url": ""
+},
   "author": "Qing",
   "license": "ISC"
 }
